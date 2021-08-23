@@ -1,3 +1,26 @@
+## ruckig (galactic) - 0.4.0-1
+
+The packages in the `ruckig` repository were released into the `galactic` distro by running `/home/berscheid/.local/bin/bloom-release --rosdistro galactic --track galactic ruckig` on `Mon, 23 Aug 2021 08:17:34 -0000`
+
+The `ruckig` package was released.
+
+Version of package(s) in repository `ruckig`:
+
+- upstream repository: https://github.com/pantor/ruckig.git
+- release repository: https://github.com/pantor/ruckig-release.git
+- rosdistro version: `0.3.3-3`
+- old version: `0.3.3-3`
+- new version: `0.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## ruckig (rolling) - 0.4.0-1
 
 The packages in the `ruckig` repository were released into the `rolling` distro by running `/home/berscheid/.local/bin/bloom-release --rosdistro rolling --track rolling ruckig` on `Mon, 23 Aug 2021 08:15:45 -0000`
