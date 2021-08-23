@@ -1,3 +1,26 @@
+## ruckig (melodic) - 0.4.0-1
+
+The packages in the `ruckig` repository were released into the `melodic` distro by running `/home/berscheid/.local/bin/bloom-release --rosdistro melodic --track melodic ruckig` on `Mon, 23 Aug 2021 08:21:16 -0000`
+
+The `ruckig` package was released.
+
+Version of package(s) in repository `ruckig`:
+
+- upstream repository: https://github.com/pantor/ruckig.git
+- release repository: https://github.com/pantor/ruckig-release.git
+- rosdistro version: `0.3.3-1`
+- old version: `0.3.3-1`
+- new version: `0.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## ruckig (foxy) - 0.4.0-1
 
 The packages in the `ruckig` repository were released into the `foxy` distro by running `/home/berscheid/.local/bin/bloom-release --rosdistro foxy --track foxy ruckig` on `Mon, 23 Aug 2021 08:19:34 -0000`
