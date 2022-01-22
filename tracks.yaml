@@ -1,3 +1,4 @@
+release_repo_url: https://github.com/pantor/ruckig-release.git
 tracks:
   foxy:
     actions:
