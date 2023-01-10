@@ -156,7 +156,7 @@ tracks:
     name: upstream
     patches: null
     release_inc: '6'
-    release_repo_url: null
+    release_repo_url: https://github.com/ros2-gbp/ruckig-release.git
     release_tag: v:{version}
     ros_distro: rolling
     vcs_type: git
