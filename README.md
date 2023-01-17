@@ -1,3 +1,26 @@
+## ruckig (rolling) - 0.9.2-1
+
+The packages in the `ruckig` repository were released into the `rolling` distro by running `/usr/bin/bloom-release ruckig -t rolling -r rolling` on `Tue, 17 Jan 2023 00:54:24 -0000`
+
+The `ruckig` package was released.
+
+Version of package(s) in repository `ruckig`:
+
+- upstream repository: https://github.com/pantor/ruckig.git
+- release repository: https://github.com/ros2-gbp/ruckig-release.git
+- rosdistro version: `0.9.1-1`
+- old version: `0.9.1-1`
+- new version: `0.9.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.1`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ruckig (humble) - 0.9.1-1
 
 The packages in the `ruckig` repository were released into the `humble` distro by running `/usr/bin/bloom-release ruckig -t humble -r humble --edit` on `Tue, 10 Jan 2023 17:47:05 -0000`
