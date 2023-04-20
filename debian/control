@@ -1,0 +1,12 @@
+Source: ros-iron-ruckig
+Section: misc
+Priority: optional
+Maintainer: Lars Berscheid <lars.berscheid@ruckig.com>
+Build-Depends: debhelper (>= 9.0.0), cmake, ros-iron-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-iron-ruckig
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-iron-ros-workspace
+Description: Instantaneous Motion Generation for Robots and Machines.
