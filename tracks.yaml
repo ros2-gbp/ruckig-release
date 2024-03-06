@@ -188,4 +188,5 @@ tracks:
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/pantor/ruckig.git
-    version: :{auto}
+    version: 0.9.2
+    version_saved: :{auto}
