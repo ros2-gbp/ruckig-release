@@ -1,0 +1,12 @@
+Source: ros-jazzy-ruckig
+Section: misc
+Priority: optional
+Maintainer: Lars Berscheid <lars.berscheid@ruckig.com>
+Build-Depends: debhelper (>= 9.0.0), cmake, ros-jazzy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-ruckig
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jazzy-ros-workspace
+Description: Instantaneous Motion Generation for Robots and Machines.
